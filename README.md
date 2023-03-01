@@ -2,7 +2,7 @@
 
 Every year SAE holds a Aerothon in which the participants are given certain tasks that need to be completed onboard a UAV/UAS.
 
-The task for Aerothon 2022 was to "Develop an autonomous aerial system that can detect a target on a field, among dummy targets, and is able to drop a payload on the center of the target.
+The task for Aerothon 2022 was to "Develop an autonomous aerial system that can detect a target on a field, among dummy targets, and is able to drop a payload on the center of the target."
 
 ### Technologies Used -
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -11,7 +11,7 @@ The task for Aerothon 2022 was to "Develop an autonomous aerial system that can 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=for-the-badge)
 
 ### Workflow-
 
