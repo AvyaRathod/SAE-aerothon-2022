@@ -21,7 +21,7 @@ The task for Aerothon 2022 was to "Develop an autonomous aerial system that can 
 - Repeat the first 3 steps, to reduce error
 - DROP!!
 
-### Implementation:
+### Implementation-
 
 The entire system was deployed on a Raspberry Pi.
 
