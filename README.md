@@ -28,6 +28,6 @@ The entire system was deployed on a Raspberry Pi.
 A default flight path is pre-set, during which when a taget is detected, certain commmands are run.
 The Models folder contains a custom implementation of UNET proposed by [Ronneberger et al.](https://arxiv.org/pdf/1505.04597.pdf) using Tensorflow. The model was trained over a custom dataset of the target which was shot through a drone.
 From the output of the model, we first find the last and first pixel of the mask which allows us to find the center of the target(i.e. square) using [helper.py](https://github.com/AvyaRathod/SAE-aerothon-2022/blob/main/helper.py).
-We then calcuate the GPS coordinate using ____________
+We then calcuate the GPS coordinate.
 GPS lock is set and the process is continued for n number of iterations to reduce the random error.
 Then the payload in dropped to the center of the target.🤞
